@@ -1,0 +1,21 @@
+## TATP
+
+```
+const int GET_SUBSCRIBER_DATA_TYPE = 1;
+const int GET_NEW_DESTINATION_TYPE = 2;
+const int GET_ACCESS_DATA_TYPE = 3;
+const int UPDATE_SUBSCRIBER_DATA_TYPE = 4;
+const int UPDATE_LOCATION_TYPE = 5;
+const int INSERT_CALL_FORWARDING_TYPE = 6;
+const int DELETE_CALL_FORWARDING_TYPE = 7;
+```
+
+## TPCC
+
+```
+#define NEW_ORDER    1
+#define PAYMENT      2
+#define ORDER_STATUS 3
+#define DELIVERY     4
+#define STOCK_LEVEL  5
+```
